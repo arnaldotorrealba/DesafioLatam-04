@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+/* HEADER */
+
+header img{
+    height: 40px;
+}
+
+/* CUPPONS SECTION */
+
+.cuppons h5{
+    color: #212529;
+    font-weight: 300;
+}
+
+.cuppons p{
+    color: #707070;
+}
+
+.cuppons .text-location{
+    font-size: 13px;
+}
+
+.text-discount{
+    font-weight: 500;
+}
+
+/* EMAIL-FORM SECTION */
+
+.email-form p{
+    font-weight: 500;
+}
+
+input::placeholder{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+/* FOOTER */
+
+footer img{
+    width: 80px;
+}
